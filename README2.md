@@ -6,7 +6,8 @@ CICD_HELM_EKS
   - Terraform plan
   - Terraform apply -auto-approve
 
-![image](https://github.com/user-attachments/assets/a931dffc-ead1-4aee-8894-c2c70054432e)
+![image](https://github.com/user-attachments/assets/c17ae672-f81a-4126-abb7-007ed885e75c)
+
 
 **Confirmed EKS was created in aws
 **
